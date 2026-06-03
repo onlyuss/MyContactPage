@@ -21,15 +21,15 @@ body {
     background-position: center;
 
     transition: background-image .8s ease-in-out;
+}
 
-    .footer {
+.footer {
     margin-top: auto;
+    width: 100%;
     text-align: center;
     padding: 15px;
     color: #888;
-    }
 }
-
 .card {
     width: 320px;
 
