@@ -22,6 +22,24 @@ function changeBackground() {
     }
 }
 
+const members =
+    Math.floor(
+        Math.random() *
+        (config.maxMembers - config.minMembers)
+    ) + config.minMembers;
+
+const active =
+    Math.floor(
+        Math.random() *
+        (config.maxActive - config.minActive)
+    ) + config.minActive;
+
+document.getElementById("members").innerHTML =
+    `👥 ${members.toLocaleString()} Members`;
+
+document.getElementById("active").innerHTML =
+    `⚡ ${active.toLocaleString()} Active`;
+
 changeBackground();
 
 setInterval(changeBackground, 3000);
