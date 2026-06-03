@@ -26,14 +26,6 @@ body {
 
     text-align: center;
 
-    padding: 20px;
-
-    border-radius: 15px;
-
-    backdrop-filter: blur(10px);
-
-    background: rgba(0,0,0,.4);
-
     color: white;
 }
 
@@ -55,11 +47,13 @@ body {
 
     padding: 12px;
 
+    border: 1px solid rgba(255,255,255,.6);
+
     border-radius: 10px;
 
     text-decoration: none;
 
     color: white;
 
-    background: rgba(255,255,255,.15);
+    background: transparent;
 }
