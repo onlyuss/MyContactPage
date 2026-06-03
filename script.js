@@ -22,11 +22,7 @@ function changeBackground() {
     }
 }
 
-const members =
-    Math.floor(
-        Math.random() *
-        (config.maxMembers - config.minMembers)
-    ) + config.minMembers;
+const members = 15472;
 
 const active =
     Math.floor(
