@@ -66,6 +66,8 @@ body {
 .btn {
     display: block;
 
+    font-size: 22px;
+
     margin-top: 12px;
 
     padding: 12px;
@@ -83,11 +85,13 @@ body {
 
 .wa-icon {
     color: #25D366;
+    font-size: 28px;
     margin-right: 8px;
 }
 
 .tg-icon {
     color: #229ED9;
+    font-size: 28px;
     margin-right: 8px;
 }
 
