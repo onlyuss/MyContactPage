@@ -1,9 +1,9 @@
 const config = {
-    profileImage: "profil.jpg",
+    profileImage: "profil.png",
 
     backgrounds: [
-        "bg1.jpg",
-        "bg2.jpg"
+        "bg1.png",
+        "bg2.png"
     ],
 
     whatsappLink: "https://example.com",
