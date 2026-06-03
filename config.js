@@ -7,7 +7,7 @@ const config = {
     ],
 
     whatsappLink: "https://example.com",
-    telegramLink: "https://example.com"
+    telegramLink: "https://example.com",
 
     minMembers: 10000,
     maxMembers: 15000,
