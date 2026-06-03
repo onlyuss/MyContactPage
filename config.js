@@ -2,7 +2,7 @@ const config = {
     profileImage: "profil.png",
 
     backgrounds: [
-        "bg3.png",
+        "bg3.jpg",
         "bg2.png"
     ],
 
