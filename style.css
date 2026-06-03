@@ -21,6 +21,13 @@ body {
     background-position: center;
 
     transition: background-image .8s ease-in-out;
+
+    .footer {
+    margin-top: auto;
+    text-align: center;
+    padding: 15px;
+    color: #888;
+    }
 }
 
 .card {
@@ -104,11 +111,4 @@ body {
 .btn:hover {
     transform: scale(1.03);
     transition: 0.3s;
-}
-
-.footer {
-    margin-top: auto;
-    text-align: center;
-    padding: 15px;
-    color: #888;
 }
