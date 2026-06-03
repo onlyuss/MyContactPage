@@ -38,7 +38,7 @@ document.getElementById("members").innerHTML =
     `👥 ${members.toLocaleString()} Members`;
 
 document.getElementById("active").innerHTML =
-    `⚡ ${active.toLocaleString()} Active`;
+    `🟢 ${active.toLocaleString()} Active`;
 
 changeBackground();
 
